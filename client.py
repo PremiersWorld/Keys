@@ -2,8 +2,8 @@
 import subprocess,socket,os
  
 # Enter IP address and port
-HOST = '192.168.30.15'
-PORT = 9001
+HOST = 'Enter Host IP Here'
+PORT = 'Enter Port Here'
 # Configure socket connection
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.connect((HOST, PORT))
