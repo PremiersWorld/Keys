@@ -9,7 +9,7 @@ host=socket.gethostname()
 port='Insert Port Here'
 
 root=Tk()
-root.title('Keys RAT by 0xP')
+root.title('wRATh Remote Access Tool by 0xP')
 root.geometry('925x500+300+200')
 root.configure(bg="#fff")
 root.resizable(False,False)
