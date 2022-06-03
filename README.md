@@ -21,7 +21,7 @@ This is the first tool I've release for the public and will be continuing to dev
 
 
 **FUTURE PLANS**
-- Upload/Download file feature (although this may be possible from the server by using "wget" or "certutil" commands)
+- Upload/Download file feature (although this may be possible by creating an additional server on your machine and using "wget" or "certutil" commands, respectively.)
 - Kill command
 
 **DEPENDENCIES**
