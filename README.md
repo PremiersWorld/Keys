@@ -21,3 +21,7 @@ This is the first tool I've release for the public and will be continuing to dev
 **FUTURE PLANS**
 - Upload/Download file feature (although this may be possible from the server by using "wget" or "certutil" commands)
 - Kill command
+
+**DEPENDENCIES**
+- Python 3.x.x
+- Tkinterface
