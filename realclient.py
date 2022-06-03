@@ -4,12 +4,12 @@ import socket
 import os
 
 #Enter IP address and port
-HOST = '192.168.20.165'
-PORT = 9001
+HOST = 'Enter Host IP Here'
+PORT = 'Enter Port Here'
 #Configuration
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.connect((HOST, PORT))
-s.sendall('\nWelcome, Travon!\nEOFX' .encode())
+s.sendall('\nWelcome, Operator!\nEOFX' .encode())
 
 while True:
     data = s.recv(1024)
