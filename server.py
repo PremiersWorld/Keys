@@ -19,7 +19,7 @@ def signin():
     password=code.get()
     
     if username=='admin' and password=='admin':
-        print('Welcome to KEYS Remote Access Tool')
+        print('Welcome to wRATh Remote Access Tool')
         print(" Server is currently running @ ", host)
         print(" Waiting for any incoming connections...")
         c = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
