@@ -4,6 +4,9 @@ Keys is an open source Remote Administration Tool fully developed in Python.
 I've been learning more about the TkInterface and have decided to implement it on the server for a half-way decent GUI.
 This is the first tool I've release for the public and will be continuing to develop it as time goes on - hope you enjoy!
 
+Username: admin
+Password: admin
+
 **Client Capabilities**
 - Can retreive commands from the Server
 - Will execute commands retrieved from the Server
