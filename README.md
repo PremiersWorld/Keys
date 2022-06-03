@@ -27,4 +27,4 @@ This is the first tool I've release for the public and will be continuing to dev
 **DEPENDENCIES**
 - Python 3.x.x
 - Tkinterface
-- any .png file named "index1.png" (I know this is a pain - I'm working on it).
+- any .png file named "index1.png" (I know this is a pain - I'm working on it). I've provided one to help out :)
